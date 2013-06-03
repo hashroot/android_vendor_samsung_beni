@@ -1,2 +1,2 @@
-vendor_files_msm_7x27
+Vendor files for beni (ICS)
 =====================
